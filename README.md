@@ -11,7 +11,25 @@
 ## wuhan2020
 
 1. wuhan2020 : https://github.com/wuhan2020
-   
+
+## ViralSpreading
+
+一个基于java的模拟仿真程序
+
+
+1. 仓库: https://gitee.com/RunAtWorld/viralspreading
+
+
+### 2019新型冠状病毒疫情实时爬虫
+
+- GitHub：https://github.com/RunAtWorld/DXY-COVID-19-Crawler
+
+### ncovr: Read and process nCoV data 新型冠状病毒数据获取和可视化
+
+- GitHub：https://github.com/RunAtWorld/ncovr
+
+
+
 ##  中国博士开发可交互全球疫情地图
 
 - wechat： https://mp.weixin.qq.com/s/AQtvo-7TuLU5wmNPfN-QGg
@@ -27,12 +45,3 @@
   https://systems.jhu.edu/research/public-health/ncov-model/
 
 ![](./CSSEGISandData/a1a0536c6bd45138a66946085074c71.png)
-
-
-### 2019新型冠状病毒疫情实时爬虫
-
-- GitHub：https://github.com/RunAtWorld/DXY-COVID-19-Crawler
-
-### ncovr: Read and process nCoV data 新型冠状病毒数据获取和可视化
-
-- GitHub：https://github.com/RunAtWorld/ncovr
