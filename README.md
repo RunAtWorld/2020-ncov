@@ -1,18 +1,18 @@
 # ncov-2020
 
-### 从新冠肺炎可视化说起，数据展示如何简约但不简单
+## 从新冠肺炎可视化说起，数据展示如何简约但不简单
 
 1. 从新冠肺炎可视化说起，数据展示如何简约但不简单 : https://www.jiqizhixin.com/articles/2020-02-21
 
-### 新型冠状病毒疫情实时动态省市地图
+## 新型冠状病毒疫情实时动态省市地图
 
 - GitHub： https://github.com/RunAtWorld/2019-ncov
 
-### wuhan2020
+## wuhan2020
 
 1. wuhan2020 : https://github.com/wuhan2020
    
-###  中国博士开发可交互全球疫情地图
+##  中国博士开发可交互全球疫情地图
 
 - wechat： https://mp.weixin.qq.com/s/AQtvo-7TuLU5wmNPfN-QGg
 - GitHub：https://github.com/CSSEGISandData/COVID-19
@@ -25,6 +25,8 @@
 
 - 约翰霍普金斯 2019-nCoV 模型博客
   https://systems.jhu.edu/research/public-health/ncov-model/
+
+![](./CSSEGISandData/a1a0536c6bd45138a66946085074c71.png)
 
 
 ### 2019新型冠状病毒疫情实时爬虫
