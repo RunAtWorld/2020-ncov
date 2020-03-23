@@ -45,3 +45,26 @@
   https://systems.jhu.edu/research/public-health/ncov-model/
 
 ![](./CSSEGISandData/a1a0536c6bd45138a66946085074c71.png)
+
+
+
+## [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+
+1. [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus):  Useful projects and resources for COVID-19 (2019 novel Coronavirus)
+
+
+## GitHub 开源
+
+1. https://github.com/nicebread/corona
+    - http://shinyapps.org/apps/corona/
+2. https://github.com/fnielsen/awesome-covid-19-resources
+3. https://github.com/tomByrer/awesome-awesome-covid19
+4. https://github.com/WeileiZeng/Open-Source-COVID-19
+5. https://github.com/CSSEGISandData/COVID-19
+6. https://github.com/GuangchuangYu/nCov2019
+7. https://github.com/RamiKrispin/coronavirus
+8. https://github.com/JohnCoene/coronavirus
+
+
+
+
