@@ -10,6 +10,7 @@
 5. https://github.com/CSSEGISandData/COVID-19
 6. https://github.com/GuangchuangYu/nCov2019
 7. https://github.com/RamiKrispin/coronavirus
+8. https://github.com/JohnCoene/coronavirus
 
 ## 数据应用
 
