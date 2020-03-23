@@ -11,4 +11,8 @@
 6. https://github.com/GuangchuangYu/nCov2019
 7. https://github.com/RamiKrispin/coronavirus
 
+## 数据应用
+
+1. https://github.com/nicebread/corona
+    - http://shinyapps.org/apps/corona/
 
